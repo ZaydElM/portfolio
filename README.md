@@ -36,7 +36,3 @@ The goal was to create something clean, simple, and responsive while learning re
 - Skills and project showcase sections
 - Simple contact section
 - Hover effects for better interactivity
-
----
-
-## 📂 Project Structure
