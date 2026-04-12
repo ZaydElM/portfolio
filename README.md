@@ -8,9 +8,7 @@ It showcases who I am, what I’m learning, and the projects I’ve built so far
 
 ## 📸 Preview
 
-If hosted, add your live link here:
-
-👉 https://your-live-site-link.com
+👉 https://zaydelm.github.io/portfolio/
 
 ---
 
